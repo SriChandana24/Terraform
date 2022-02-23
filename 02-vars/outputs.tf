@@ -14,7 +14,7 @@ output "map_string" {
   value = var.map["string"]
 }
 
-output "new" {
+output "new_in_tfvars" {
   value = var.new
 }
 

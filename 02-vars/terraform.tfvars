@@ -1,1 +1,1 @@
-    new = "NewWorld"
+    new_in_tfvars = "NewWorld"

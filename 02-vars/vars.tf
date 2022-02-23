@@ -36,7 +36,7 @@ variable "map" {
 }
 
 ## Variable values from tfvars
-variable "new" {}
+variable "new_in_tfvars" {}
 
 ## Value from CLI
 variable "cli" {}
