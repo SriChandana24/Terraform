@@ -15,7 +15,7 @@ output "map_string" {
 }
 
 output "new_in_tfvars" {
-  value = var.new
+  value = var.new_in_tfvars
 }
 
 output "cli" {
